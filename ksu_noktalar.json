@@ -1,0 +1,1683 @@
+{
+ "kaynak": "harita.ksu.edu.tr",
+ "tarih": "2026-11-07",
+ "not": "Konumlar bina/birim isaretidir, bina girisi degildir. kategori=kavsak olanlar hedef degil, sesli yonlendirmede yer isareti olarak kullanilir.",
+ "noktalar": [
+  {
+   "id": "ksu_000",
+   "ad": "(UZEM) Uzaktan eğitim (Orman Fakültesi Binası)",
+   "kategori": "akademik",
+   "aciklama": "(UZEM) Uzaktan eğitim Binası",
+   "lat": 37.5872879,
+   "lng": 36.81552,
+   "hedef": true
+  },
+  {
+   "id": "ksu_001",
+   "ad": "Diş Hekimliği Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Diş Hekimliği Fakültesi Klinik Bilimler Bölümü Temel Bilimler Bölümü",
+   "lat": 37.5849178,
+   "lng": 36.8253202,
+   "hedef": true
+  },
+  {
+   "id": "ksu_002",
+   "ad": "Eğitim Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "Yabancı Diller Eğitimi Bölümü Temel Eğitim Bölümü Türkçe ve Sosyal Bilimler Eğitimi Bölümü Matematik ve Fen Bilimleri Eğitimi Bölümü Eğitim Bilimleri Bölümü Özel Eğitim Bölümü",
+   "lat": 37.5865216,
+   "lng": 36.8161044,
+   "hedef": true
+  },
+  {
+   "id": "ksu_003",
+   "ad": "Enformatik Bölümü",
+   "kategori": "akademik",
+   "aciklama": "",
+   "lat": 37.5869968,
+   "lng": 36.8160211,
+   "hedef": true
+  },
+  {
+   "id": "ksu_004",
+   "ad": "Fen Bilimler Enstitüsü",
+   "kategori": "akademik",
+   "aciklama": "",
+   "lat": 37.5870733,
+   "lng": 36.8209393,
+   "hedef": true
+  },
+  {
+   "id": "ksu_005",
+   "ad": "Fen Fakültesi B/Blok",
+   "kategori": "akademik",
+   "aciklama": "Derslikler",
+   "lat": 37.586523,
+   "lng": 36.8146715,
+   "hedef": true
+  },
+  {
+   "id": "ksu_006",
+   "ad": "Fen Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "Fen Fakültesi Biyoloji Bölümü Fizik Bölümü Matematik Bölümü Kimya Bölümü",
+   "lat": 37.5863043,
+   "lng": 36.8154128,
+   "hedef": true
+  },
+  {
+   "id": "ksu_007",
+   "ad": "Güzel Sanatlar Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Güzel Sanatlar Fakültesi Resim Bölümü Tekstil ve Moda Tasarımı Bölümü Müzik Bölümü Endüstriyel Tasarım Bölümü Radyo, Televizyon ve Sinema Bölümü İç Mimarlık Bölümü Grafik Tasarımı Bölümü",
+   "lat": 37.5875222,
+   "lng": 36.8148066,
+   "hedef": true
+  },
+  {
+   "id": "ksu_008",
+   "ad": "İktisadi İdari Bilimler Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "iktisat İşletme Kamu Yönetimi Sağlık Yönetimi Sosyal Hizmet Siyaset Bilimi ve Uluslararası İlişkiler Uluslararası Ticaret ve Lojistik Sürekli Eğitim Merkezi",
+   "lat": 37.5866645,
+   "lng": 36.8188675,
+   "hedef": true
+  },
+  {
+   "id": "ksu_009",
+   "ad": "İlahiyat Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "İsmail Kurtul İlahiyat Fakültesi İlahiyat İlahiyat Arapça İlitam",
+   "lat": 37.5853939,
+   "lng": 36.8119163,
+   "hedef": true
+  },
+  {
+   "id": "ksu_010",
+   "ad": "İletişim Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Dijital Oyun Tasarımı Görsel İletişim Tasarımı Halkla İlişkiler ve Reklamcılık Gazetecilik Çizgi Film ve Animasyon Radyo, Televizyon ve Sinema Bölümü Yeni Medya Ve İletişim Bölümü",
+   "lat": 37.5885845,
+   "lng": 36.8164738,
+   "hedef": true
+  },
+  {
+   "id": "ksu_011",
+   "ad": "İnsan ve Toplum Bilimleri Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "İnsan ve Toplum Bilimleri Fakültesi Binası Arkeoloji Bölümü Batı Dilleri ve Edebiyatları Bölümü Coğrafya Bölümü Felsefe Bölümü Mütercim ve Tercümanlık Bölümü Psikoloji Bölümü Sanat Tarihi Bölümü Tarih Bölümü Türk Dili ve Edebiyatı Bölümü",
+   "lat": 37.5869821,
+   "lng": 36.8148217,
+   "hedef": true
+  },
+  {
+   "id": "ksu_012",
+   "ad": "Kahramanmaraş Sağlık Hizmetleri Meslek Yüksekokulu Binası",
+   "kategori": "akademik",
+   "aciklama": "Kahramanmaraş Sağlık Hizmetleri Meslek Yüksekokulu Tıbbi Hizmetler ve Teknikler (Bölümü) Tıbbi Laboratuvar Teknikleri Tıbbi Dokümantasyon ve Sekreterlik Anestezi Optisyenlik Tıbbi Görüntüleme Teknikleri İlk ve Acil Yardım Patoloji Laboratuvar Teknikleri Odyometri Çocuk Bakım ve Gençlik Hizmetleri (Bölümü) Çocuk Gelişimi Sağlık Bakım Hizmetleri (Bölümü) Yaşlı Bakımı Dişçilik Hizmetleri (Bölümü) Diş Protez Teknolojisi Ağız ve Diş Sağlığı Programı Terapi ve Rehabilitasyon (Bölümü) Fizyoterapi",
+   "lat": 37.5852103,
+   "lng": 36.8073112,
+   "hedef": true
+  },
+  {
+   "id": "ksu_013",
+   "ad": "Mühendislik ve Mimarlık Fakültesi Eski Bina",
+   "kategori": "akademik",
+   "aciklama": "Elektrik-Elektronik Mühendisliği Endüstri Mühendisliği Çevre Mühendisliği Tekstil Mühendisliği",
+   "lat": 37.5869854,
+   "lng": 36.8183312,
+   "hedef": true
+  },
+  {
+   "id": "ksu_014",
+   "ad": "Mühendislik ve Mimarlık Fakültesi Yeni Bina",
+   "kategori": "akademik",
+   "aciklama": "Mühendislik ve Mimarlık Fakültesi Bilgisayar Mühendisliği İnşaat Mühendisliği Jeoloji Mühendisliği Makine Mühendisliği Mimarlık Bölümü",
+   "lat": 37.5870134,
+   "lng": 36.8080974,
+   "hedef": true
+  },
+  {
+   "id": "ksu_015",
+   "ad": "Onikişubat Meslek Yüksekokulu Binası",
+   "kategori": "akademik",
+   "aciklama": "Teknik Bilimler Meslek Yüksekokulu Bilgisayar Teknolojileri Bölümü Bilgisayar Programcılığı Programı Bilgisayar Destekli Tasarım ve Animasyon Programı El Sanatları Bölümü Geleneksel El Sanatları Programı Kuyumculuk ve Takı Tasarımı Programı Elektronik ve Otomasyon Bölümü Elektronik Teknolojisi Programı Kontrol ve Otomasyon Teknolojisi Programı Elektrik ve Enerji Bölümü Elektrik Programı Doğalgaz ve Tesisatı Teknolojisi Programı İklimlendirme ve Soğutma Teknolojisi Programı İnşaat Bölümü İnşaat Teknolojisi Programı Makine ve Metal Teknolojileri Bölümü Makine Programı Motorlu Araçlar ve Ulaştırma Teknolojileri Bölümü Otomotiv Teknolojisi Programı Tekstil Giyim Ayakkabı ve Deri Bölümü Tekstil Teknolojisi Programı Giyim Üretim Teknolojisi Programı",
+   "lat": 37.5876099,
+   "lng": 36.8060321,
+   "hedef": true
+  },
+  {
+   "id": "ksu_016",
+   "ad": "Orman Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "Orman Mühendisliği Orman Endüstri Mühendisliği Peyzaj Mimarlığı",
+   "lat": 37.5874993,
+   "lng": 36.8159703,
+   "hedef": true
+  },
+  {
+   "id": "ksu_017",
+   "ad": "Sağlık Bilimleri Fakültesi Binası",
+   "kategori": "akademik",
+   "aciklama": "Sağlık Bilimleri Fakültesi Ebelik Bölümü Hemşirelik Bölümü Fizyoterapi ve Rehabilitasyon Bölümü Beslenme ve Diyetetik Bölümü Dil ve Konuşma Terapisi Bölümü Ergoterapi Bölümü",
+   "lat": 37.5876469,
+   "lng": 36.8054744,
+   "hedef": true
+  },
+  {
+   "id": "ksu_018",
+   "ad": "Sosyal Bilimler Enstitüsü",
+   "kategori": "akademik",
+   "aciklama": "",
+   "lat": 37.5869585,
+   "lng": 36.8210895,
+   "hedef": true
+  },
+  {
+   "id": "ksu_019",
+   "ad": "Sosyal Bilimler Meslek Yüksekokulu Binası",
+   "kategori": "akademik",
+   "aciklama": "Sosyal Bilimler Meslek Yüksekokulu Büro Hizmetleri ve Sekreterlik Büro Yönetimi ve Yönetici Asistanlığı Çağrı Merkezi Hizmetleri (Uzaktan Eğitim) Finans, Bankacılık ve Sigortacılık Bankacılık ve Sigortacılık Maliye Programı Muhasebe ve Vergi Muhasebe ve Vergi Uygulamaları Otel, Lokanta ve İkram Hizmetleri Aşçılık Turizm ve Otel İşletmeciliği Pazarlama ve Reklamcılık Halkla İlişkiler ve Tanıtım Pazarlama Yönetim ve Organizasyon İşletme Yönetimi Lojistik",
+   "lat": 37.5851848,
+   "lng": 36.8079334,
+   "hedef": true
+  },
+  {
+   "id": "ksu_020",
+   "ad": "Spor Bilimleri Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Spor Bilimleri Fakültesi Beden Eğitimi ve Spor Antrenörlük Eğitimi Spor Yöneticiliği Rekreasyon",
+   "lat": 37.5850506,
+   "lng": 36.8292065,
+   "hedef": true
+  },
+  {
+   "id": "ksu_021",
+   "ad": "Tıp Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Tıp Fakültesi Cerrahi Tıp Bilimleri Dahili Tıp Bilimleri Temel Tıp Bilimleri",
+   "lat": 37.5836444,
+   "lng": 36.8259778,
+   "hedef": true
+  },
+  {
+   "id": "ksu_022",
+   "ad": "Turizm Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Gastronomi ve Mutfak Sanatları Bölümü Rekreasyon Yönetimi Bölümü Turizm İşletmeciliği Bölümü",
+   "lat": 37.5851508,
+   "lng": 36.8079334,
+   "hedef": true
+  },
+  {
+   "id": "ksu_023",
+   "ad": "Yabancı Diller Yüksekokulu",
+   "kategori": "akademik",
+   "aciklama": "Yabancı Diller Bölümü",
+   "lat": 37.5868513,
+   "lng": 36.8189341,
+   "hedef": true
+  },
+  {
+   "id": "ksu_024",
+   "ad": "Ziraat Fakültesi",
+   "kategori": "akademik",
+   "aciklama": "Bahçe Bitkileri Bölümü Bitki Koruma Bölümü Biyosistem Mühendisliği Bölümü Tarım Ekonomisi Bölümü Tarımsal Biyoteknoloji Bölümü Tarla Bitkileri Bölümü Toprak Bilimi ve Bitki Besleme Bölümü Zootekni Bölümü Gıda Mühendiliği",
+   "lat": 37.5883237,
+   "lng": 36.8164301,
+   "hedef": true
+  },
+  {
+   "id": "ksu_025",
+   "ad": "KSÜ Al Götür Kafe",
+   "kategori": "alisveris",
+   "aciklama": "",
+   "lat": 37.5863456,
+   "lng": 36.8276207,
+   "hedef": true
+  },
+  {
+   "id": "ksu_026",
+   "ad": "Ziraat Fakültesi Tarımsal Ürünler Satış Ofisi",
+   "kategori": "alisveris",
+   "aciklama": "",
+   "lat": 37.5882975,
+   "lng": 36.8158248,
+   "hedef": true
+  },
+  {
+   "id": "ksu_027",
+   "ad": "Ağız ve Diş Sağlığı Eğitimi, Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5844995,
+   "lng": 36.8254082,
+   "hedef": true
+  },
+  {
+   "id": "ksu_028",
+   "ad": "Atatürk İlkeleri ve İnkılap Tarihi Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.588565,
+   "lng": 36.8158913,
+   "hedef": true
+  },
+  {
+   "id": "ksu_029",
+   "ad": "Avrupa Birliği Araştırma ve Uygulama Merkezi (KSÜ-ABAUM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.588565,
+   "lng": 36.8158913,
+   "hedef": true
+  },
+  {
+   "id": "ksu_030",
+   "ad": "Bilgisayar Araştırma ve Uygulama Merkezi (BAUM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5872302,
+   "lng": 36.8081001,
+   "hedef": true
+  },
+  {
+   "id": "ksu_031",
+   "ad": "Biyomedikal Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5837604,
+   "lng": 36.8264152,
+   "hedef": true
+  },
+  {
+   "id": "ksu_032",
+   "ad": "Çevre Sorunları Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5872705,
+   "lng": 36.8154816,
+   "hedef": true
+  },
+  {
+   "id": "ksu_033",
+   "ad": "Çocuk Eğitimi Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5852219,
+   "lng": 36.8080813,
+   "hedef": true
+  },
+  {
+   "id": "ksu_034",
+   "ad": "Deprem Araştırma ve Risk Yönetim Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.587242,
+   "lng": 36.8078559,
+   "hedef": true
+  },
+  {
+   "id": "ksu_035",
+   "ad": "Doğu Akdeniz Arkeolojisi Uygulama ve Araştırma Merkezi (DOĞAKMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.587089,
+   "lng": 36.815012,
+   "hedef": true
+  },
+  {
+   "id": "ksu_036",
+   "ad": "Ekolojik Tarım Uygulama ve Araştırma Merkezi (EKOTAUM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5888871,
+   "lng": 36.8164363,
+   "hedef": true
+  },
+  {
+   "id": "ksu_037",
+   "ad": "Hayvansal Üretim Uygulama ve Araştırma Merkezi .(HAYMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5885837,
+   "lng": 36.8159379,
+   "hedef": true
+  },
+  {
+   "id": "ksu_038",
+   "ad": "Kadın Çalışmaları Uygulama ve Araştırma Merkezi(KSÜKAM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5888643,
+   "lng": 36.8164315,
+   "hedef": true
+  },
+  {
+   "id": "ksu_039",
+   "ad": "Kahramanmaraş Edebiyat İncelemeleri Uygulama ve Araştırma Merkezi (EDEM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5874828,
+   "lng": 36.811637,
+   "hedef": true
+  },
+  {
+   "id": "ksu_040",
+   "ad": "Kahramanmaraş ve Yöresi Kültürel Değerlerini Araştırma ve Uygulama Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5866731,
+   "lng": 36.8184995,
+   "hedef": true
+  },
+  {
+   "id": "ksu_041",
+   "ad": "Kariyer ve Girişimcilik Uygulama ve Araştırma Merkezi (KAGİM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5869761,
+   "lng": 36.8184053,
+   "hedef": true
+  },
+  {
+   "id": "ksu_042",
+   "ad": "Prof. Dr. Nurettin KAŞKA Sert Kabuklu Meyveler Uyg. ve Ar. Mer. (SEKAMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5888874,
+   "lng": 36.8163912,
+   "hedef": true
+  },
+  {
+   "id": "ksu_043",
+   "ad": "Proje Geliştirme, Koordinasyon Uygulama ve Araştırma Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5869968,
+   "lng": 36.8158549,
+   "hedef": true
+  },
+  {
+   "id": "ksu_044",
+   "ad": "Siyer-i Nebi Araştırmaları Uygulama ve Araştırma Merkezi (SAMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.585499,
+   "lng": 36.8122797,
+   "hedef": true
+  },
+  {
+   "id": "ksu_045",
+   "ad": "Stratejik Araştırmalar Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5872537,
+   "lng": 36.8184213,
+   "hedef": true
+  },
+  {
+   "id": "ksu_046",
+   "ad": "Sürekli Eğitim Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5866224,
+   "lng": 36.8190141,
+   "hedef": true
+  },
+  {
+   "id": "ksu_047",
+   "ad": "Tarımsal Yayım Araştırma ve Uygulama Merkezi",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5889092,
+   "lng": 36.816405,
+   "hedef": true
+  },
+  {
+   "id": "ksu_048",
+   "ad": "Türkçe Öğretim Araştırma ve Uygulama Merkezi (TÖMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5883013,
+   "lng": 36.8163085,
+   "hedef": true
+  },
+  {
+   "id": "ksu_049",
+   "ad": "Uluslararası Lojistik ve Ticaret Uygulama ve Araştırma Merkezi (ULTİMER)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5869325,
+   "lng": 36.818524,
+   "hedef": true
+  },
+  {
+   "id": "ksu_050",
+   "ad": "Uzaktan Eğitim Uygulama ve Araştırma Merkezi (UZEM)",
+   "kategori": "arastirma",
+   "aciklama": "",
+   "lat": 37.5872875,
+   "lng": 36.8155574,
+   "hedef": true
+  },
+  {
+   "id": "ksu_051",
+   "ad": "Üniversite - Sanayi - Kamu İşbirliği Geliştirme Uygulama ve Araştırma Merkezi binası (ÜSKİM)",
+   "kategori": "arastirma",
+   "aciklama": "Üniversite - Sanayi - Kamu İşbirliği Geliştirme Uygulama ve Araştırma Merkezi (ÜSKİM)",
+   "lat": 37.5870062,
+   "lng": 36.8161044,
+   "hedef": true
+  },
+  {
+   "id": "ksu_052",
+   "ad": "Halk Bankası ATM (Yemekhane Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5882394,
+   "lng": 36.8207932,
+   "hedef": true
+  },
+  {
+   "id": "ksu_053",
+   "ad": "İş Bankası ATM (Sağlık Uygulama ve Araştırma Hastanesi Poliklinik Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5865961,
+   "lng": 36.824919,
+   "hedef": true
+  },
+  {
+   "id": "ksu_054",
+   "ad": "İş Bankası ATM (Yemekhane Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5883235,
+   "lng": 36.8208695,
+   "hedef": true
+  },
+  {
+   "id": "ksu_055",
+   "ad": "Kahramankart Dolum Noktası (Sağlık Uygulama Araştırma Hastanesi Poliklinik Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5877312,
+   "lng": 36.8267377,
+   "hedef": true
+  },
+  {
+   "id": "ksu_056",
+   "ad": "Kahramankart Dolum Noktası (Yemekhane Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5883956,
+   "lng": 36.8207892,
+   "hedef": true
+  },
+  {
+   "id": "ksu_057",
+   "ad": "PTT Bank ATM (Yemekhane Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5882755,
+   "lng": 36.8208026,
+   "hedef": true
+  },
+  {
+   "id": "ksu_058",
+   "ad": "Vakıflar Bankası ATM (Sağlık Uygulama ve Araştırma Hastanesi Poliklinik Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.586561,
+   "lng": 36.824931,
+   "hedef": true
+  },
+  {
+   "id": "ksu_059",
+   "ad": "Vakıflar Bankası ATM (Yemekhane Girişi)",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5882022,
+   "lng": 36.8207811,
+   "hedef": true
+  },
+  {
+   "id": "ksu_060",
+   "ad": "Ziraat Bankası ATM",
+   "kategori": "atm",
+   "aciklama": "",
+   "lat": 37.5883426,
+   "lng": 36.820891,
+   "hedef": true
+  },
+  {
+   "id": "ksu_061",
+   "ad": "Elektrik Atölyesi Binası",
+   "kategori": "atolye",
+   "aciklama": "Elektrik Atölyesi",
+   "lat": 37.5871253,
+   "lng": 36.8057265,
+   "hedef": true
+  },
+  {
+   "id": "ksu_062",
+   "ad": "İnşaat Atölyesi Binası",
+   "kategori": "atolye",
+   "aciklama": "İnşaat Atölyesi",
+   "lat": 37.586781,
+   "lng": 36.8057855,
+   "hedef": true
+  },
+  {
+   "id": "ksu_063",
+   "ad": "Metal Atölyesi Binası",
+   "kategori": "atolye",
+   "aciklama": "Metal Atölyesi",
+   "lat": 37.5864282,
+   "lng": 36.8057426,
+   "hedef": true
+  },
+  {
+   "id": "ksu_064",
+   "ad": "Mobilya Atölyesi Binası",
+   "kategori": "atolye",
+   "aciklama": "Mobilya Atölyesi",
+   "lat": 37.5864282,
+   "lng": 36.8061449,
+   "hedef": true
+  },
+  {
+   "id": "ksu_065",
+   "ad": "Moda Tasarım Atölyesi Binası",
+   "kategori": "atolye",
+   "aciklama": "Moda Tasarım Atölyesi",
+   "lat": 37.5867852,
+   "lng": 36.8061342,
+   "hedef": true
+  },
+  {
+   "id": "ksu_066",
+   "ad": "Teknoloji Geliştirme Atölyesi",
+   "kategori": "atolye",
+   "aciklama": "",
+   "lat": 37.5876852,
+   "lng": 36.8102986,
+   "hedef": true
+  },
+  {
+   "id": "ksu_067",
+   "ad": "Tekstil Atölyesi",
+   "kategori": "atolye",
+   "aciklama": "",
+   "lat": 37.5871041,
+   "lng": 36.8061342,
+   "hedef": true
+  },
+  {
+   "id": "ksu_068",
+   "ad": "Yapı İşleri Taknik Daire Başkanlığı Elektrik Atölyesi",
+   "kategori": "atolye",
+   "aciklama": "",
+   "lat": 37.5853771,
+   "lng": 36.8207807,
+   "hedef": true
+  },
+  {
+   "id": "ksu_069",
+   "ad": "6 ŞUBAT DEPREMİ Şehitlik Anıtı (Kahramanmaraş Sütçü İmam Üniversitesi)",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5882196,
+   "lng": 36.8329386,
+   "hedef": true
+  },
+  {
+   "id": "ksu_070",
+   "ad": "Diş Hekimliği Fakültesi Kafeterya yol Ayrımı",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5855952,
+   "lng": 36.8240841,
+   "hedef": false
+  },
+  {
+   "id": "ksu_071",
+   "ad": "Isı Merkezi Kavşak",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5881186,
+   "lng": 36.8096363,
+   "hedef": false
+  },
+  {
+   "id": "ksu_072",
+   "ad": "İlahiyat Fakültesi , sosyal Bilimler MYO ve Mimarlık Mühendislik Fakültesi Kavşak",
+   "kategori": "kavsak",
+   "aciklama": "İlahiyat Fakültesi, sosyal Bilimler MYO ve Mimarlık Mühendislik Fakültesi Kavşak",
+   "lat": 37.5857204,
+   "lng": 36.8102625,
+   "hedef": false
+  },
+  {
+   "id": "ksu_073",
+   "ad": "İlahiyat Fakültesi Kavşağı",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5860874,
+   "lng": 36.8136205,
+   "hedef": false
+  },
+  {
+   "id": "ksu_074",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Kavşağı",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5885693,
+   "lng": 36.8341232,
+   "hedef": false
+  },
+  {
+   "id": "ksu_075",
+   "ad": "Prof. Dr. Ahmet KAYA Caddesi",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5865643,
+   "lng": 36.8100002,
+   "hedef": false
+  },
+  {
+   "id": "ksu_076",
+   "ad": "Prof. Dr. Lale-Ercan EFE Caddesi",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5880146,
+   "lng": 36.8144965,
+   "hedef": false
+  },
+  {
+   "id": "ksu_077",
+   "ad": "Prof. Dr. Mustafa ŞEKKELİ Caddesi",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5867161,
+   "lng": 36.8113852,
+   "hedef": false
+  },
+  {
+   "id": "ksu_078",
+   "ad": "Prof. Dr. Sakine Serap AVGIN Caddesi",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.586171,
+   "lng": 36.8200954,
+   "hedef": false
+  },
+  {
+   "id": "ksu_079",
+   "ad": "Rektörlük Ana Kavşak (Baykuşlu Kavşak)",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5848372,
+   "lng": 36.8203462,
+   "hedef": false
+  },
+  {
+   "id": "ksu_080",
+   "ad": "Yemekhane Kavşağı",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5878621,
+   "lng": 36.8203015,
+   "hedef": false
+  },
+  {
+   "id": "ksu_081",
+   "ad": "Tıp Fakültesi Morfoloji Binası",
+   "kategori": "derslik",
+   "aciklama": "Derslikler",
+   "lat": 37.5844564,
+   "lng": 36.8262621,
+   "hedef": true
+  },
+  {
+   "id": "ksu_082",
+   "ad": "Ali Özge Camii",
+   "kategori": "cami",
+   "aciklama": "",
+   "lat": 37.5880541,
+   "lng": 36.8301179,
+   "hedef": true
+  },
+  {
+   "id": "ksu_083",
+   "ad": "Araç Bakım Şefliği",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5883386,
+   "lng": 36.8075553,
+   "hedef": true
+  },
+  {
+   "id": "ksu_084",
+   "ad": "Diyanet Geçlik Merkezi",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5851729,
+   "lng": 36.8170309,
+   "hedef": true
+  },
+  {
+   "id": "ksu_085",
+   "ad": "Eğitim-Bir-Sen | Eğitimciler Birliği Sendikası 2 Nolu Şube",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5884593,
+   "lng": 36.8208272,
+   "hedef": true
+  },
+  {
+   "id": "ksu_086",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Araştırma Uygulama Hastanesi Helikopter Pisti",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5891658,
+   "lng": 36.8252396,
+   "hedef": true
+  },
+  {
+   "id": "ksu_087",
+   "ad": "KSÜ Merkez Camii",
+   "kategori": "cami",
+   "aciklama": "",
+   "lat": 37.5867292,
+   "lng": 36.8134457,
+   "hedef": true
+  },
+  {
+   "id": "ksu_088",
+   "ad": "Radyo KSÜ",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5873809,
+   "lng": 36.8116152,
+   "hedef": true
+  },
+  {
+   "id": "ksu_089",
+   "ad": "Su Deposu",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5855854,
+   "lng": 36.8213654,
+   "hedef": true
+  },
+  {
+   "id": "ksu_090",
+   "ad": "T.C. Gençlik ve Spor Bakanlığı Gençlik Otağı",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5862868,
+   "lng": 36.8115359,
+   "hedef": true
+  },
+  {
+   "id": "ksu_091",
+   "ad": "Umut Sokağı",
+   "kategori": "kavsak",
+   "aciklama": "",
+   "lat": 37.5851422,
+   "lng": 36.8239116,
+   "hedef": false
+  },
+  {
+   "id": "ksu_092",
+   "ad": "Üniversite Resmi Araç Garajı",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5886829,
+   "lng": 36.8078826,
+   "hedef": true
+  },
+  {
+   "id": "ksu_093",
+   "ad": "Ziraat Fakültesi Böcek Müzesi",
+   "kategori": "diger",
+   "aciklama": "Böcek Müzesi",
+   "lat": 37.5888512,
+   "lng": 36.8164138,
+   "hedef": true
+  },
+  {
+   "id": "ksu_094",
+   "ad": "Ziraat Fakültesi Seralar",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5904657,
+   "lng": 36.8120091,
+   "hedef": true
+  },
+  {
+   "id": "ksu_095",
+   "ad": "Diş Hekimliği Fakültesi Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5856397,
+   "lng": 36.8248546,
+   "hedef": true
+  },
+  {
+   "id": "ksu_096",
+   "ad": "Eğitim Fakültesi Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5855897,
+   "lng": 36.8166116,
+   "hedef": true
+  },
+  {
+   "id": "ksu_097",
+   "ad": "Fen Fakültesi Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5859127,
+   "lng": 36.8151042,
+   "hedef": true
+  },
+  {
+   "id": "ksu_098",
+   "ad": "İlahiyat Fakültesi Durak",
+   "kategori": "durak",
+   "aciklama": "İsmail Kurtul İlahiyat Fakültesi Durak",
+   "lat": 37.5859707,
+   "lng": 36.8119494,
+   "hedef": true
+  },
+  {
+   "id": "ksu_099",
+   "ad": "Kütüphane Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5880031,
+   "lng": 36.8124468,
+   "hedef": true
+  },
+  {
+   "id": "ksu_100",
+   "ad": "Mimarlık Mühendislik Yeni Bina Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5875162,
+   "lng": 36.8097855,
+   "hedef": true
+  },
+  {
+   "id": "ksu_101",
+   "ad": "Mimarlık Mühendislik Eski Bina Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5877593,
+   "lng": 36.8190704,
+   "hedef": true
+  },
+  {
+   "id": "ksu_102",
+   "ad": "Sosyal Bilimler Meslek Yüksekokulu Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5858147,
+   "lng": 36.8076899,
+   "hedef": true
+  },
+  {
+   "id": "ksu_103",
+   "ad": "Tıp Fakültesi Duraklar",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5873825,
+   "lng": 36.8279734,
+   "hedef": true
+  },
+  {
+   "id": "ksu_104",
+   "ad": "Ziraat ve Orman Fakültesi Durak",
+   "kategori": "durak",
+   "aciklama": "",
+   "lat": 37.5878661,
+   "lng": 36.8162664,
+   "hedef": true
+  },
+  {
+   "id": "ksu_105",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi",
+   "kategori": "saglik",
+   "aciklama": "Sağlık Uygulama ve Araştırma Hastanesi",
+   "lat": 37.5871963,
+   "lng": 36.8255174,
+   "hedef": true
+  },
+  {
+   "id": "ksu_106",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Acil Girişi",
+   "kategori": "saglik",
+   "aciklama": "Acil Girişi",
+   "lat": 37.5877829,
+   "lng": 36.8250507,
+   "hedef": true
+  },
+  {
+   "id": "ksu_107",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi MORG",
+   "kategori": "saglik",
+   "aciklama": "",
+   "lat": 37.5880072,
+   "lng": 36.8249824,
+   "hedef": true
+  },
+  {
+   "id": "ksu_108",
+   "ad": "KSU Kampüs 112 Acil İstasyonu",
+   "kategori": "saglik",
+   "aciklama": "",
+   "lat": 37.5880259,
+   "lng": 36.8313116,
+   "hedef": true
+  },
+  {
+   "id": "ksu_109",
+   "ad": "KSU Kan Bankası",
+   "kategori": "saglik",
+   "aciklama": "",
+   "lat": 37.5876451,
+   "lng": 36.8248267,
+   "hedef": true
+  },
+  {
+   "id": "ksu_110",
+   "ad": "KSÜ Morfoloji",
+   "kategori": "saglik",
+   "aciklama": "",
+   "lat": 37.5846343,
+   "lng": 36.8263252,
+   "hedef": true
+  },
+  {
+   "id": "ksu_111",
+   "ad": "Türk Böbrek Vakfı Kahramanmaraş Sütçü İmam Üniversitesi Diyaliz Merkezi",
+   "kategori": "saglik",
+   "aciklama": "",
+   "lat": 37.5874642,
+   "lng": 36.8239475,
+   "hedef": true
+  },
+  {
+   "id": "ksu_112",
+   "ad": "Basımevi Binası",
+   "kategori": "idari",
+   "aciklama": "Basımevi",
+   "lat": 37.5870001,
+   "lng": 36.8164863,
+   "hedef": true
+  },
+  {
+   "id": "ksu_113",
+   "ad": "Basın Yayın ve Halkla İlişkiler Birimi",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5855659,
+   "lng": 36.8189292,
+   "hedef": true
+  },
+  {
+   "id": "ksu_114",
+   "ad": "Bilgi İşlem Daire Başkanlığı Binası",
+   "kategori": "idari",
+   "aciklama": "Bilgi İşlem Daire Başkanlığı",
+   "lat": 37.5870478,
+   "lng": 36.8210895,
+   "hedef": true
+  },
+  {
+   "id": "ksu_115",
+   "ad": "Erasmus+",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5870669,
+   "lng": 36.8206147,
+   "hedef": true
+  },
+  {
+   "id": "ksu_116",
+   "ad": "Farabi Öğrenci Ofisi",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5870711,
+   "lng": 36.8204967,
+   "hedef": true
+  },
+  {
+   "id": "ksu_117",
+   "ad": "Hukuk Müşavirliği",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5853768,
+   "lng": 36.8190794,
+   "hedef": true
+  },
+  {
+   "id": "ksu_118",
+   "ad": "İdari ve Mali İşler Daire Başkanlığı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5854767,
+   "lng": 36.8190096,
+   "hedef": true
+  },
+  {
+   "id": "ksu_119",
+   "ad": "Kahramanmaraş Teknokent",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5917617,
+   "lng": 36.8257803,
+   "hedef": true
+  },
+  {
+   "id": "ksu_120",
+   "ad": "Mevlana Programı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5869734,
+   "lng": 36.8204833,
+   "hedef": true
+  },
+  {
+   "id": "ksu_121",
+   "ad": "Öğrenci İşleri Daire Başkanlığı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5870652,
+   "lng": 36.8205091,
+   "hedef": true
+  },
+  {
+   "id": "ksu_122",
+   "ad": "Personel Daire Başkanlığı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5854256,
+   "lng": 36.8193154,
+   "hedef": true
+  },
+  {
+   "id": "ksu_123",
+   "ad": "Rektörlük",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5858208,
+   "lng": 36.8188837,
+   "hedef": true
+  },
+  {
+   "id": "ksu_124",
+   "ad": "Sağlık Kültür Ve Spor Daire Başkanlığı ( Yunus Emre Kongre ve Kültür Merkezi Binası )",
+   "kategori": "idari",
+   "aciklama": "Sağlık Kültür Ve Spor Daire Başkanlığı",
+   "lat": 37.5871976,
+   "lng": 36.8116376,
+   "hedef": true
+  },
+  {
+   "id": "ksu_125",
+   "ad": "Sağlık Uygulama ve Araştırma Hastanesi İdari Bina",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5869567,
+   "lng": 36.8255373,
+   "hedef": true
+  },
+  {
+   "id": "ksu_126",
+   "ad": "Sivil Savunma",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5853916,
+   "lng": 36.8190391,
+   "hedef": true
+  },
+  {
+   "id": "ksu_127",
+   "ad": "Strateji Geliştirme Daire Başkanlığı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5853916,
+   "lng": 36.819428,
+   "hedef": true
+  },
+  {
+   "id": "ksu_128",
+   "ad": "Taşıt İşletme Şube Müdürlüğü (1. konum)",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5854852,
+   "lng": 36.8189694,
+   "kontrol": "Haritada iki ayrı konumda; hangisi doğru sahada bakılacak.",
+   "hedef": true
+  },
+  {
+   "id": "ksu_129",
+   "ad": "Taşıt İşletme Şube Müdürlüğü (2. konum)",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5882749,
+   "lng": 36.8080649,
+   "kontrol": "Haritada iki ayrı konumda; hangisi doğru sahada bakılacak.",
+   "hedef": true
+  },
+  {
+   "id": "ksu_130",
+   "ad": "Uluslararası Öğrenci",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5870839,
+   "lng": 36.8206228,
+   "hedef": true
+  },
+  {
+   "id": "ksu_131",
+   "ad": "Yapı İşleri ve Teknik Daire Başkanlığı",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5854469,
+   "lng": 36.8194924,
+   "hedef": true
+  },
+  {
+   "id": "ksu_132",
+   "ad": "Cahit Zarifoğlu Konferans Salonu",
+   "kategori": "konferans",
+   "aciklama": "",
+   "lat": 37.5872601,
+   "lng": 36.8189728,
+   "hedef": true
+  },
+  {
+   "id": "ksu_133",
+   "ad": "Senem Ayşe Konferans Salonu",
+   "kategori": "konferans",
+   "aciklama": "",
+   "lat": 37.5876254,
+   "lng": 36.8183748,
+   "hedef": true
+  },
+  {
+   "id": "ksu_134",
+   "ad": "Yunus Emre Kongre ve Kültür Merkezi Binası",
+   "kategori": "konferans",
+   "aciklama": "Yunus Emre Kongre ve Kültür Merkezi Sezai Karakoç Konferans Salonu Turkuaz Konferans Salonu Kahverengi Konferans Salonu",
+   "lat": 37.5874249,
+   "lng": 36.8116273,
+   "hedef": true
+  },
+  {
+   "id": "ksu_135",
+   "ad": "Kahramanmaraş Sütçü İmam Üniversitesi Merkez Kütüphanesi Binası",
+   "kategori": "kutuphane",
+   "aciklama": "",
+   "lat": 37.5876418,
+   "lng": 36.8126841,
+   "hedef": true
+  },
+  {
+   "id": "ksu_136",
+   "ad": "Ord. Prof. Mükri̇mi̇n Hali̇l Yi̇nanç Kütüphanesi̇ Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5874144,
+   "lng": 36.8133852,
+   "hedef": true
+  },
+  {
+   "id": "ksu_137",
+   "ad": "Kredi Yurtlar Kurumu Erkek Öğrenci Yurdu Nizamiye",
+   "kategori": "nizamiye",
+   "aciklama": "",
+   "lat": 37.5854185,
+   "lng": 36.8370344,
+   "hedef": true
+  },
+  {
+   "id": "ksu_138",
+   "ad": "Kredi Yurtlar Kurumu Kız Öğrenci Yurdu Nizamiye",
+   "kategori": "nizamiye",
+   "aciklama": "",
+   "lat": 37.5853387,
+   "lng": 36.8345161,
+   "hedef": true
+  },
+  {
+   "id": "ksu_139",
+   "ad": "Nizamiye 1",
+   "kategori": "nizamiye",
+   "aciklama": "",
+   "lat": 37.5875984,
+   "lng": 36.8315882,
+   "hedef": true
+  },
+  {
+   "id": "ksu_140",
+   "ad": "Nizamiye 2 (Tıp Fakültesinden Giriş)",
+   "kategori": "nizamiye",
+   "aciklama": "",
+   "lat": 37.5869532,
+   "lng": 36.827952,
+   "hedef": true
+  },
+  {
+   "id": "ksu_141",
+   "ad": "OTO EKSPERTİZ",
+   "kategori": "diger",
+   "aciklama": "",
+   "lat": 37.5860902,
+   "lng": 36.8060294,
+   "hedef": true
+  },
+  {
+   "id": "ksu_142",
+   "ad": "Ali Özge Camii Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5884575,
+   "lng": 36.8299459,
+   "hedef": true
+  },
+  {
+   "id": "ksu_143",
+   "ad": "Bilgi İşlem Daire Başkanlığı Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5871497,
+   "lng": 36.8211904,
+   "hedef": true
+  },
+  {
+   "id": "ksu_144",
+   "ad": "Eğitim Fakültesi Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5860249,
+   "lng": 36.816737,
+   "hedef": true
+  },
+  {
+   "id": "ksu_145",
+   "ad": "Fen Fakültesi Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5862889,
+   "lng": 36.8142729,
+   "hedef": true
+  },
+  {
+   "id": "ksu_146",
+   "ad": "Güzel Sanatlar Fakültesi Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.587746,
+   "lng": 36.8147838,
+   "hedef": true
+  },
+  {
+   "id": "ksu_147",
+   "ad": "Hastane Personel Ön Otopark",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5870446,
+   "lng": 36.8257572,
+   "hedef": true
+  },
+  {
+   "id": "ksu_148",
+   "ad": "İktisadi İdari Bilimler Fakültesi Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5863203,
+   "lng": 36.8181422,
+   "hedef": true
+  },
+  {
+   "id": "ksu_149",
+   "ad": "İlahiyat Fakültesi Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5854237,
+   "lng": 36.8128203,
+   "hedef": true
+  },
+  {
+   "id": "ksu_150",
+   "ad": "İnsan ve Toplum Bilimleri Fakültesi otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.586782,
+   "lng": 36.814356,
+   "hedef": true
+  },
+  {
+   "id": "ksu_151",
+   "ad": "KSÜ Merkez Camii Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.586336,
+   "lng": 36.8134216,
+   "hedef": true
+  },
+  {
+   "id": "ksu_152",
+   "ad": "Mimarlık Mühendislik Eski Bina Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.587568,
+   "lng": 36.8188127,
+   "hedef": true
+  },
+  {
+   "id": "ksu_153",
+   "ad": "Onikişubat Meslek Yüksekokulu Arka Otopark",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5880507,
+   "lng": 36.8057542,
+   "hedef": true
+  },
+  {
+   "id": "ksu_154",
+   "ad": "Onikişubat Meslek Yüksekokulu Ön Otopark",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5874173,
+   "lng": 36.805786,
+   "hedef": true
+  },
+  {
+   "id": "ksu_155",
+   "ad": "Öğrenci İşleri Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5866894,
+   "lng": 36.8206134,
+   "hedef": true
+  },
+  {
+   "id": "ksu_156",
+   "ad": "Rektörlük Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5859253,
+   "lng": 36.8181252,
+   "hedef": true
+  },
+  {
+   "id": "ksu_157",
+   "ad": "Sağlık Uygulama ve Araştırma Hastanesi Hasta İndirme Alanı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5871523,
+   "lng": 36.8261167,
+   "hedef": true
+  },
+  {
+   "id": "ksu_158",
+   "ad": "Teknokent Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "Teknokent Otopark",
+   "lat": 37.5919681,
+   "lng": 36.8261569,
+   "hedef": true
+  },
+  {
+   "id": "ksu_159",
+   "ad": "Tıp Fakültesi Misafir - Personel Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5869787,
+   "lng": 36.826926,
+   "hedef": true
+  },
+  {
+   "id": "ksu_160",
+   "ad": "Tıp Fakültesi Personel Otoparkı (Ön)",
+   "kategori": "otopark",
+   "aciklama": "Tıp Fakültesi Personel Otoparkı 1 (Ön)",
+   "lat": 37.5875398,
+   "lng": 36.8284831,
+   "hedef": true
+  },
+  {
+   "id": "ksu_161",
+   "ad": "Yemekhane Otoparkı",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5885551,
+   "lng": 36.8205326,
+   "hedef": true
+  },
+  {
+   "id": "ksu_162",
+   "ad": "Ziraat Fakültesi Yan Otoparkı 1",
+   "kategori": "otopark",
+   "aciklama": "",
+   "lat": 37.5881175,
+   "lng": 36.818026,
+   "hedef": true
+  },
+  {
+   "id": "ksu_163",
+   "ad": "Aslanlı Park",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.5875541,
+   "lng": 36.8195626,
+   "hedef": true
+  },
+  {
+   "id": "ksu_164",
+   "ad": "Fen Fakültesi Park",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.5860341,
+   "lng": 36.8152299,
+   "hedef": true
+  },
+  {
+   "id": "ksu_165",
+   "ad": "İktisadi İdari Bilimler Fakültesi Park",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.587099,
+   "lng": 36.8171101,
+   "hedef": true
+  },
+  {
+   "id": "ksu_166",
+   "ad": "İlahiyat Arka Park Alanı",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.5850858,
+   "lng": 36.812017,
+   "hedef": true
+  },
+  {
+   "id": "ksu_167",
+   "ad": "kahramanmaraş Sütçü İmam Üniversitesi Sağlık Uygulama ve Araştırma Hastanesi Çocuk Parkı",
+   "kategori": "park",
+   "aciklama": "Sağlık Uygulama ve Araştırma Hastanesi Çocuk Parkı",
+   "lat": 37.5870588,
+   "lng": 36.8257144,
+   "hedef": true
+  },
+  {
+   "id": "ksu_168",
+   "ad": "Şehit Ömer HALİSDEMİR Meydanı",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.5868867,
+   "lng": 36.8193533,
+   "hedef": true
+  },
+  {
+   "id": "ksu_169",
+   "ad": "Ziraat Fakültesi Mesire Alanı",
+   "kategori": "park",
+   "aciklama": "",
+   "lat": 37.5899978,
+   "lng": 36.8159596,
+   "hedef": true
+  },
+  {
+   "id": "ksu_170",
+   "ad": "Anadolu Üniversitesi Açık Öğretim Fakültesi Kahramanmaraş İl Bürosu",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5867529,
+   "lng": 36.8207436,
+   "hedef": true
+  },
+  {
+   "id": "ksu_171",
+   "ad": "AÖF İl Koordinatörlüğü ( Yunus Emre Kongre ve Kültür Merkezi Binası )",
+   "kategori": "idari",
+   "aciklama": "AÖF İl Koordinatörlüğü",
+   "lat": 37.5874208,
+   "lng": 36.8114659,
+   "hedef": true
+  },
+  {
+   "id": "ksu_172",
+   "ad": "ATA-AOF İl Koordinatörlüğü ( Yunus Emre Kongre ve Kültür Merkezi Binası )",
+   "kategori": "konferans",
+   "aciklama": "ATA-AOF İl Koordinatörlüğü",
+   "lat": 37.5875568,
+   "lng": 36.8114793,
+   "hedef": true
+  },
+  {
+   "id": "ksu_173",
+   "ad": "AUZEF İl Koordinatörlüğü ( Yunus Emre Kongre ve Kültür Merkezi Binası )",
+   "kategori": "idari",
+   "aciklama": "AUZEF İl Koordinatörlüğü",
+   "lat": 37.5873942,
+   "lng": 36.8114498,
+   "hedef": true
+  },
+  {
+   "id": "ksu_174",
+   "ad": "Kahramanmaraş ÖYSM İl Bürosu",
+   "kategori": "idari",
+   "aciklama": "",
+   "lat": 37.5867486,
+   "lng": 36.8208415,
+   "hedef": true
+  },
+  {
+   "id": "ksu_175",
+   "ad": "ÖSYM İl Koordinatörlüğü ( Yunus Emre Kongre ve Kültür Merkezi Binası )",
+   "kategori": "idari",
+   "aciklama": "ÖSYM İl Koordinatörlüğü",
+   "lat": 37.5874378,
+   "lng": 36.8114484,
+   "hedef": true
+  },
+  {
+   "id": "ksu_176",
+   "ad": "Atatürk Spor Merkezi",
+   "kategori": "spor",
+   "aciklama": "",
+   "lat": 37.5863584,
+   "lng": 36.829827,
+   "hedef": true
+  },
+  {
+   "id": "ksu_177",
+   "ad": "Sütçü İmam Üniversitesi Spor Kompleksi",
+   "kategori": "spor",
+   "aciklama": "",
+   "lat": 37.5853003,
+   "lng": 36.8285428,
+   "hedef": true
+  },
+  {
+   "id": "ksu_178",
+   "ad": "Yarı Olimpik Kapalı Yüzme Havuzu",
+   "kategori": "spor",
+   "aciklama": "Yarı Olimpik Kapalı Yüzme Havuzu Fitness Sauna",
+   "lat": 37.5861649,
+   "lng": 36.8325391,
+   "hedef": true
+  },
+  {
+   "id": "ksu_179",
+   "ad": "Akademik, İdari, Öğrenci Yemekhanesi",
+   "kategori": "yemek",
+   "aciklama": "Akademik, İdari, Öğrenci Yemekhanesi Alakart Yemekhanesi kafeterya Vezne",
+   "lat": 37.5885148,
+   "lng": 36.8210476,
+   "hedef": true
+  },
+  {
+   "id": "ksu_180",
+   "ad": "İktisadi İdari Bilimler Fakültesi Kantini",
+   "kategori": "yemek",
+   "aciklama": "",
+   "lat": 37.5866047,
+   "lng": 36.8176868,
+   "hedef": true
+  },
+  {
+   "id": "ksu_181",
+   "ad": "Kampüs İçi Çarşı (Yunus Emre Kongre Kültür Merkezi Yanı)",
+   "kategori": "yemek",
+   "aciklama": "Kampüs İçi Çarşı Öğrenci YemekHanesi Cafe end Bistro Döner Kırtasiye",
+   "lat": 37.5867618,
+   "lng": 36.812577,
+   "hedef": true
+  },
+  {
+   "id": "ksu_182",
+   "ad": "KSU Kafeterya (Hastane Acil Girişi Karşısı)",
+   "kategori": "yemek",
+   "aciklama": "",
+   "lat": 37.5880256,
+   "lng": 36.8250735,
+   "hedef": true
+  },
+  {
+   "id": "ksu_183",
+   "ad": "Tıp Fakültesi Çarşı",
+   "kategori": "yemek",
+   "aciklama": "Tıp Fakültesi Çarşı Medikal Oyun Ve Kafe Salonu Simitçi Gayrimenkul Market Oto Yıkama",
+   "lat": 37.5881634,
+   "lng": 36.8275908,
+   "hedef": true
+  },
+  {
+   "id": "ksu_184",
+   "ad": "Kredi Yurtlar Kurumu Erkek Öğrenci Yurdu",
+   "kategori": "yurt",
+   "aciklama": "",
+   "lat": 37.5848481,
+   "lng": 36.8340292,
+   "hedef": true
+  },
+  {
+   "id": "ksu_185",
+   "ad": "Kredi Yurtlar Kurumu Kız Öğrenci Yurdu",
+   "kategori": "yurt",
+   "aciklama": "",
+   "lat": 37.5848481,
+   "lng": 36.8340292,
+   "hedef": true
+  }
+ ]
+}
